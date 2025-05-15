@@ -39,8 +39,11 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=u1r4&show_icons=true&locale=en&layout=compact" alt="u1r4" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=u1r4&show_icons=true&locale=en" alt="u1r4" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=u1r4&" alt="u1r4" /></p>
+<img
+      align="left"
+      alt="GitHub Stats"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=U1R4&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+ 
+</p>

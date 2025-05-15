@@ -39,12 +39,6 @@
 
 ###
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/uiracardoso"> 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/uiracardoso"/>
-</a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=u1r4&show_icons=true&locale=en&layout=compact" alt="u1r4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=u1r4&show_icons=true&locale=en" alt="u1r4" /></p>

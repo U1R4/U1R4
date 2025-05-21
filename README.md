@@ -49,3 +49,11 @@
       height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=U1R4&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
+
+<img
+    align="center"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=U1R4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />

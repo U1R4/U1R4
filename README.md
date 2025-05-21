@@ -34,7 +34,11 @@
 </div>
 
 ###
+<div>
 
+ <p align= "left">https://u1r4.github.io/WebPage/</p>
+
+</div>
 <img align="right" height="150" src="https://giffiles.alphacoders.com/297/2970.gif"/>
 
 ###
@@ -44,16 +48,4 @@
       alt="GitHub Stats"
       height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=U1R4&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-
-  ###
- <div>
-
-</p>
-      https://u1r4.github.io/WebPage/
- <p>
-   
- </div>
-
-   
- </p>
+/>

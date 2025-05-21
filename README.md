@@ -39,7 +39,7 @@
  <p align= "left">https://u1r4.github.io/WebPage/</p>
 
 </div>
-<img align="right" height="150" src="https://giffiles.alphacoders.com/297/2970.gif"/>
+<img align="right" height="200" src="https://giffiles.alphacoders.com/297/2970.gif"/>
 
 ###
 
@@ -51,7 +51,7 @@
 />
 
 <img
-    align="center"
+    align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"

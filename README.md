@@ -60,3 +60,10 @@
 
   ###
 
+ <a href="https://www.credly.com/badges/36a52274-849a-4a64-8b8f-c26ed366507f/public_url">
+    <img 
+    src="https://images.credly.com/size/110x110/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" 
+    width="85" 
+    alt="Network Defense">
+  </a>
+

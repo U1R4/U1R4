@@ -59,11 +59,23 @@
   />
 
   ###
-
- <a href="https://www.credly.com/badges/36a52274-849a-4a64-8b8f-c26ed366507f/public_url">
+<div>
+<p>
+  <a href="https://www.credly.com/badges/4493dd64-d89c-459f-b673-1fecfbdfb238/public_url">
     <img 
-    src="https://images.credly.com/size/110x110/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" 
+    src="https://images.credly.com/size/220x220/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" 
     width="85" 
     alt="Network Defense">
   </a>
+  &#8287;
+  <a href="https://www.credly.com/badges/28297ed7-e653-422a-a95f-49ce26b75a44/public_url">
+    <img 
+    src="https://images.credly.com/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" 
+    width="85" 
+    alt="Network Technician Career Path">
+  </a>
+  &#8287;
+</p>
+
+</div>
 

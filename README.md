@@ -45,11 +45,6 @@
 </p>
 
 ---
-
-### How to reach me
-
-- LinkedIn: [Uira Cardoso](www.linkedin.com/in/uirá-cardoso-melo-630112300)
-
 ---
 
 <p align="center">

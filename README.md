@@ -58,7 +58,7 @@
     src="https://github-readme-stats.vercel.app/api?username=U1R4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
-  ###
+### 📜 CERTIFICATIONS AND BADGES
 <div>
 <p>
   <a href="https://www.credly.com/badges/4493dd64-d89c-459f-b673-1fecfbdfb238/public_url">

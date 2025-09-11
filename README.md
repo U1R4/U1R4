@@ -2,8 +2,7 @@
 <h3 align="center">Im a student of developer and SOC Analyst from Brazil</h3>
 
 <p align="center">
-  <a href="https://u1r4.github.io/WebPage/">🌐 Portfolio</a>
-  <a href="https://www.linkedin.com/in/yourprofile/">💼 LinkedIn</a>
+  <a href="www.linkedin.com/in/uirá-cardoso-melo-630112300/">LinkedIn</a>
 </p>
 
 ---
@@ -49,8 +48,7 @@
 
 ### How to reach me
 
-- Portfolio: [https://u1r4.github.io/WebPage/](https://u1r4.github.io/WebPage/)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- LinkedIn: [Uira Cardoso](www.linkedin.com/in/uirá-cardoso-melo-630112300)
 
 ---
 

@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=U1R4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="U1R4's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U1R4&theme=tokyonight&layout=compact&langs_count=9" alt="Top Languages" height="165"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=U1R4&theme=dark&hide_border=true&short_numbers=true" alt="Uira's Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=U1R4&theme=tokyonight&layout=compact&langs_count=9" alt="Uira's Streak"/>
 </p>
 
 ---

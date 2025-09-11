@@ -2,7 +2,7 @@
 <h3 align="center">Im a student of developer and SOC Analyst from Brazil</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/uirá-cardoso-melo-630112300/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/uirá-cardoso-melo-630112300/">LinkedIn</a>
 </p>
 
 ---

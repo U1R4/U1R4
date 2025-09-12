@@ -52,8 +52,3 @@
 </p>
 
 ---
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=U1R4&label=Profile%20views&color=0e75b6&style=flat" alt="U1R4 profile views" />
-</p>

@@ -32,7 +32,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=U1R4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="U1R4's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U1R4&theme=tokyonight&layout=compact&langs_count=9" alt="Top Languages" height="165"/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=U1R4&theme=tokyonight&layout=compact&langs_count=9" alt="Uira's Streak"/>
 </p>
 
@@ -46,6 +45,9 @@
   </a>
   <a href="https://www.credly.com/badges/28297ed7-e653-422a-a95f-49ce26b75a44/public_url">
     <img src="https://images.credly.com/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Network Technician Career Path" width="80">
+  </a>
+  <a href="https://www.credly.com/badges/69fa99e3-97a4-4996-94fa-f761e41ce779/public_url">
+    <img src="https://images.credly.com/size/110x110/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" alt="Network Technician Career Path" width="80">
   </a>
 </p>
 

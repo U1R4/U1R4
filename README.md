@@ -1,6 +1,6 @@
 <h2 align="center">Hi! I'm Uira Cardoso</h2>
 <h3 align="center">Im a student of developer and SOC Analyst from Brazil</h3>
-<h3 align"center">I'm currently working on SaaS for a school<h3>
+<h3 align="center">I'm currently working on SaaS for a school<h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/uirá-cardoso-melo-630112300/">LinkedIn</a>
 </p>

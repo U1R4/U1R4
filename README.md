@@ -1,13 +1,7 @@
 <div align="center">
 
   <h2>🌐 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙳𝙴𝚅𝚂𝙿𝙰𝙲𝙴 🌐</h2>
-  
-  <p align="center">
-    <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Courier+New&pause=1000&color=20C20E&center=true&width=440&height=45&vCenter=true&size=35&lines=𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛+Graduate;𝚂𝙾𝙲+Analyst" 
-    />
-  </p>
-</div>
+
 
 
 ### 📞 𝙲𝙾𝙽𝙽𝙴𝙲𝚃 𝚆𝙸𝚃𝙷 𝙼𝙴

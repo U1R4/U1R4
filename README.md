@@ -1,5 +1,5 @@
 <h2 align="center">Hi! I'm Uira Cardoso</h2>
-<h3 align="center">I'm a student developer and SOC Analyst from Brazil</h3>
+<h3 align="center">I'm a SOC Analyst and Developer graduated from Brazil</h3>
 <h3 align="center">I'm currently working on a SaaS for a school as my course final project</h3>
 
 <p align="center">
@@ -30,19 +30,19 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=U1R4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" alt="U1R4's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U1R4&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=U1R4&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U1R4&theme=tokyonight&layout=compact&langs_count=8" alt="Top langs" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=U1R4&theme=tokyonight" alt="Uira's Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=U1R4&theme=tokyonight" alt="Streak stats" width="98%"/>
 </p>
 
 ---
 
 ### Certifications & Badges
 
-<p align="left">
+<p align="center">
   <a href="https://www.credly.com/badges/4493dd64-d89c-459f-b673-1fecfbdfb238/public_url">
     <img src="https://images.credly.com/size/110x110/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="Network Defense" width="80">
   </a>

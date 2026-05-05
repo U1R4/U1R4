@@ -92,5 +92,3 @@
     alt="Cyber Threat Management">
   </a>
 </p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=048f25&height=120&section=footer"/>
